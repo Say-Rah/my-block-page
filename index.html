@@ -17,6 +17,8 @@
         <li><a href="#news">News</a></li>
         <li><a href="#subscribe">Subscribe</a></li>
         <li><a href="#contact">Contact</a></li>
+        <li><a href="#login">Login</a></li>
+        <li><a href="#register">Register</a></li>
     </ul>
 </nav> 
 
@@ -78,7 +80,7 @@
     </div>
 </section>
 
-<!-- Contact Us -->
+<!-- Subscribe -->
 <section id="subscribe">
     <h2>subscribe to our Newsletter</h2>
     <form>
@@ -109,5 +111,38 @@
 </section>
 </main>
 
+ <!-- Login -->
+ <section id="login" class="auth-form">
+    <h2>Login</h2>
+    <form id="loginForm">
+        <label for="email">Email</label>
+        <input type="email" id="login-email" required>
+
+        <label for="password">Password</label>
+        <input type="password" id="login-password" required>
+
+        <button type="submit">Login</button>
+    </form>
+</section>
+
+<!-- Register -->
+<section id="register">
+    <h2>Register</h2>
+    <form id="registerForm">
+        <label for="reg-name">Full Name</label>
+        <input type="text" id="reg-name" required>
+
+        <label for="email">Email</label>
+        <input type="email" id="reg-email" required>
+
+        <label for="reg-password">Password</label>
+        <input type="reg-password" id="reg-password" required>
+
+        <label for="re-confirm">Confirm Password:</label>
+        <input type="password" id="reg-confirm" required>
+
+        <button type="submit">Register</button>
+    </form>
+</section>
 </body>
 </html>
