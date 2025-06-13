@@ -1,0 +1,67 @@
+{
+    "news": [
+      {
+        "id": 1,
+        "title": "Fruits are Healthy",
+        "summary": "Fruits are healthy and also good for the body.",
+        "image": "images/news.png",
+        "alt": "image: fruits",
+        "author": "Sarah Sylvester",
+        "content": "<p>Fruits are an essential part of a healthy diet. They are packed with vitamins, minerals, and fiber that help maintain good health and prevent diseases.</p><p>Eating a variety of fruits provides your body with the nutrients it needs to function properly. Studies have shown that people who consume more fruits have lower risks of chronic diseases like heart disease and diabetes.</p><p>Some of the healthiest fruits include berries, apples, bananas, oranges, and kiwis. Try to incorporate at least 2-3 servings of fruits in your daily diet.</p>"
+      },
+      {
+        "id": 2,
+        "title": "CSS Styling Techniques",
+        "summary": "Learn to style using CSS",
+        "image": "images/news1.png",
+        "alt": "image: code",
+        "author": "Lurd Robert",
+        "content": "<p>CSS (Cascading Style Sheets) is a fundamental technology for web design that allows you to control the appearance of your HTML documents.</p><p>Modern CSS techniques include Flexbox and Grid for layout, CSS variables for reusable values, and animations for interactive elements. Learning these techniques can significantly improve your web development skills.</p><p>Some best practices include using semantic HTML, mobile-first design approach, and progressive enhancement to ensure your styles work across all devices and browsers.</p>"
+      },
+      {
+        "id": 3,
+        "title": "Basketball Season Starts",
+        "summary": "New basketball season tips off",
+        "image": "images/news2.png",
+        "alt": "image: ball",
+        "author": "Baby Girl",
+        "content": "<p>The new basketball season has officially begun with exciting matches scheduled throughout the month.</p><p>This year's season promises to be more competitive than ever with several teams making strategic acquisitions during the off-season. Fans can expect high-energy games and intense rivalries.</p><p>Key players to watch include last season's MVP and several promising rookies who have shown exceptional skills during the pre-season games.</p>"
+      },
+    
+        {
+            "id": 4,
+            "title": "Stunning 5-Bedroom Luxury Home For Sale",
+            "summary": "Premium property in Hillside Estates now available",
+            "image": "../images/news3.jpg",
+            "alt": "Luxury modern home",
+            "author": "Sarah Sylvester",
+            "content": [
+              "This exquisite 5-bedroom, 4.5-bath luxury home is now available in the prestigious Hillside Estates neighborhood. Built in 2020, this 4,200 sq.ft property combines modern elegance with functional family living.",
+              "The property boasts breathtaking views of the surrounding hills and is located in a top-rated school district. The master suite features a spa-like bathroom with soaking tub and walk-in closet large enough to be a room itself.",
+              "Key features include:",
+              "Chef's kitchen with quartz countertops and premium appliances",
+              "Open concept living area with floor-to-ceiling windows",
+              "Smart home technology throughout",
+              "Heated outdoor infinity pool",
+              "Finished basement with home theater",
+              "Landscaped gardens with irrigation system",
+              "3-car garage with EV charging station",
+              "Open houses will be held every Saturday in October from 1-4pm. Serious inquiries only. Financing options available for qualified buyers."
+            ],
+            "propertyDetails": {
+              "price": "$1,250,000",
+              "bedrooms": 5,
+              "bathrooms": 4.5,
+              "squareFootage": 4200,
+              "lotSize": "0.75 acres",
+              "yearBuilt": 2020,
+              "contact": {
+                "name": "Sarah Sylvester",
+                "agency": "Hillside Realty Group",
+                "phone": "(555) 123-4567",
+                "email": "sjohnson@hillsiderealty.com"
+              }
+            }
+          }
+    ]
+  }
